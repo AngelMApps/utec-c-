@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/practica_emaxen1.dir/main.cpp.o CMakeFiles/practica_emaxen1.dir/funciones.cpp.o -o practica_emaxen1 

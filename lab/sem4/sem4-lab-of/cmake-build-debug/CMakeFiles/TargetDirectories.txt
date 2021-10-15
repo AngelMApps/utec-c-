@@ -1,0 +1,3 @@
+/home/dev/Escritorio/utec-c-/lab/sem4/sem4-lab-of/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dev/Escritorio/utec-c-/lab/sem4/sem4-lab-of/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dev/Escritorio/utec-c-/lab/sem4/sem4-lab-of/cmake-build-debug/CMakeFiles/sem4_lab_of.dir

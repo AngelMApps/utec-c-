@@ -1,0 +1,3 @@
+/home/dev/Escritorio/utec-c-/practica-emaxen1/exam1-e2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dev/Escritorio/utec-c-/practica-emaxen1/exam1-e2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dev/Escritorio/utec-c-/practica-emaxen1/exam1-e2/cmake-build-debug/CMakeFiles/exam1_e2.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/practica_examen2.dir/ejercicio5.cpp.o -o practica_examen2 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dev/Escritorio/utec-c-/lab/sem4/sem4-lab-of/funciones.cpp
+iostream
+-
+funciones.h
+/home/dev/Escritorio/utec-c-/lab/sem4/sem4-lab-of/funciones.h
+
+/home/dev/Escritorio/utec-c-/lab/sem4/sem4-lab-of/funciones.h
+
+/home/dev/Escritorio/utec-c-/lab/sem4/sem4-lab-of/main.cpp
+iostream
+-
+funciones.h
+/home/dev/Escritorio/utec-c-/lab/sem4/sem4-lab-of/funciones.h
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dev/Escritorio/utec-c-/practica-emaxen1/exam1-e1/funciones.cpp
+iostream
+-
+funciones.h
+/home/dev/Escritorio/utec-c-/practica-emaxen1/exam1-e1/funciones.h
+
+/home/dev/Escritorio/utec-c-/practica-emaxen1/exam1-e1/funciones.h
+
+/home/dev/Escritorio/utec-c-/practica-emaxen1/exam1-e1/main.cpp
+funciones.h
+/home/dev/Escritorio/utec-c-/practica-emaxen1/exam1-e1/funciones.h
+

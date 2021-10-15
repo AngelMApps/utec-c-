@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/exam1-e1.dir/main.cpp.o CMakeFiles/exam1-e1.dir/funciones.cpp.o -o exam1-e1 

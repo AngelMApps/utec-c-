@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dev/Escritorio/utec-c-/PC1/p2/main.cpp
+iostream
+-
+p2.h
+/home/dev/Escritorio/utec-c-/PC1/p2/p2.h
+
+/home/dev/Escritorio/utec-c-/PC1/p2/p2.cpp
+iostream
+-
+p2.h
+/home/dev/Escritorio/utec-c-/PC1/p2/p2.h
+
+/home/dev/Escritorio/utec-c-/PC1/p2/p2.h
+iostream
+-
+

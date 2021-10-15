@@ -1,0 +1,35 @@
+//
+// Created by estan on 9/23/2021.
+//
+
+#include "funciones.h"
+#include <iostream>
+
+using namespace  std;
+
+int InvertirNumero(int numero) {
+    int result = 0;
+    while(numero!=0){
+        result = result*10+numero%10;
+        numero=numero/10;
+    }
+    return result;
+}
+
+bool EsCapicua(int numero) {
+    return numero == InvertirNumero(numero);
+}
+
+void MostrarCapicuas(int desde, int hasta) {
+    for(auto i=desde; i<=hasta; i++){
+        if (EsCapicua(i))
+            cout << i << endl;
+    }
+}
+
+void IngresarRango(int &desde, int &hasta) {
+    cout << "Ingrese Rango Inicial: "<<endl;
+    cin >> desde;
+    cout << "Ingrese Rango final: "<<endl;
+    cin >> hasta;
+}
